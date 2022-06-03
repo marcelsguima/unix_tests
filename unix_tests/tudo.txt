@@ -1,0 +1,9 @@
+ls
+verde
+vermelho
+azul
+roxo
+banana
+maça
+uva
+jaboticaba
