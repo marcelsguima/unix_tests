@@ -8,5 +8,9 @@ Java
 HTML
 BootCampUnimed
 Priscila
+trybe_skills
 Team work
 Emotional intelligence
+SQL
+
+
