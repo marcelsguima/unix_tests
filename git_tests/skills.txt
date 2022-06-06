@@ -8,3 +8,4 @@ Java
 HTML
 BootCampUnimed
 Priscila
+SQL
